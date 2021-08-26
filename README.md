@@ -12,10 +12,10 @@ print(f"La mayoria de ellos escritos en {name}")
 
 Para mantener todo ordenado, cada proyecto estará en una carpeta diferente en donde tendrá una pequeña documentación así como su estado de uso
 
-> 🟩 => Proyecto de uso amigable
-> 🟨 => Proyecto utilizable 
-> 🟥 => Proyecto inestable
-> 🟦 => Proyecto no disponible
+> 🟩 => Proyecto de uso amigable  
+> 🟨 => Proyecto utilizable  
+> 🟥 => Proyecto inestable  
+> 🟦 => Proyecto no disponible  
 
 | Proyectos        | Estado        | Uso |
 | :------------  |:-------------:|:-----------:|
