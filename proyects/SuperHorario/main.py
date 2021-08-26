@@ -4,6 +4,8 @@ from rich.table import Table
 from rich.table import Column
 console = Console()
 
+# Veamos que tal sale esto
+
 # Day variables
 MONDAY = ['monday','lunes']
 TUESDAY = ['thuesday','martes']
