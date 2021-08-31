@@ -185,8 +185,6 @@ def write():
 
             perDay(c.day)
 
-
-
 @horario.command()
 def fix():
     """
